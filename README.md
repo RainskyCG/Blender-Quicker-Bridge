@@ -1,7 +1,7 @@
 ## Quicker Bridge 
 [📥 点击下载 QuickerBridge](https://github.com/RainskyCG/Blender-Quicker-Bridge/releases/download/v2.0/QuickerBridge_v2.zip)
 
-这是一个专为 Blender 开发的通信插件。它的核心功能是打破 Blender 与外部工作流的隔离，允许外部工具（如 Quicker、AutoHotkey等）直接控制 Blender。
+这是一个专为 Blender 开发的通信插件。它的核心功能是打破 Blender 与外部工作流的隔离，允许外部工具（如 Quicker、Python脚本等）直接控制 Blender。
 
 测试版本：Blender 5.0
 
