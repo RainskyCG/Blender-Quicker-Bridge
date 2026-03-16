@@ -1,11 +1,12 @@
 ## Quicker Bridge 
-[📥 点击下载 QuickerBridge_v2.zip](https://github.com/RainskyCG/Blender-Quicker-Bridge/releases/download/v2.0/QuickerBridge_v2.zip)
+[📥 点击下载 QuickerBridge](https://github.com/RainskyCG/Blender-Quicker-Bridge/releases/download/v2.0/QuickerBridge_v2.zip)
 
 这是一个专为 Blender 开发的通信插件。它的核心功能是打破 Blender 与外部工作流的隔离，允许外部工具（如 Quicker、AutoHotkey等）直接控制 Blender。
+
 测试版本：Blender 5.0
+
 插件提供了两大核心工作模式：**剪贴板模式** 和 **HTTP 模式**。
 
----
 ### 一、 剪贴板模式（快捷运行）
 这是最简单、最直观的使用方式。它允许你把系统剪贴板当作代码传递的介质。
 - **工作原理：** 复制或编写一段 Blender Python 代码到剪贴板。在 Blender 界面中按下快捷键，插件会立即读取剪贴板内容并在 Blender 后台执行。
